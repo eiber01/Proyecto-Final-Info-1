@@ -1,0 +1,10 @@
+[
+    {
+        "ID": 4,
+        "ID_paciente": 1040872992,
+        "ID_medico": 1007335594,
+        "Fecha_cita": "2024-11-29",
+        "Hora_cita": "34200.0",
+        "Razon_cita": "dolor de cabeza fuerte"
+    }
+]

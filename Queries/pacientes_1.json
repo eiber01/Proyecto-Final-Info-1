@@ -1,0 +1,20 @@
+[
+    {
+        "ID": 4,
+        "Nombre": "tatiana",
+        "Apellido": "hernandez",
+        "Nacimiento": "2005-12-10",
+        "Genero": "f",
+        "Direccion": "rionegro antioquia",
+        "Telefono": "3203105213"
+    },
+    {
+        "ID": 5,
+        "Nombre": "dago",
+        "Apellido": "orozco",
+        "Nacimiento": "2020-02-20",
+        "Genero": "m",
+        "Direccion": "medellin",
+        "Telefono": "1111111"
+    }
+]
